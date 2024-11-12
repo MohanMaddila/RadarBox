@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.radarbox.com/@41.23010,-89.25118,z5'</initValue>
+      <name>radarBoxURL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.radarbox.com/subscribe'</initValue>
+      <name>subscripitonURL</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
